@@ -1,6 +1,6 @@
 # __FCompare__
 
-**fcompare** is a demo tool that accepts two JSON files and prints out if they are equal.
+**fcompare** is a demo tool that accepts two JSON array files and prints out if they are equal.
 
 ## __Table of contents__
 
